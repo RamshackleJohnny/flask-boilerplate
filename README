@@ -58,8 +58,8 @@ source env/bin/activate
 
 5. Install dependancies with pip
 
-pip install -e .
-pip install -e '.[test]'
+pip3 install -e .
+pip3 install -e '.[test]'
 
 6. Set flasks enviroment variables for bash
 
